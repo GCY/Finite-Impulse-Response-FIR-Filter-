@@ -25,4 +25,4 @@ example : </br>
 > g++ -o2 -o main main.cpp FIR.cpp --std=c++11</br>
 
 > ./main ./ECG\ ATM\ 104\ Special\ case.txt  output.txt</br>
-
+![alt text](https://github.com/GCY/Finite-Impulse-Response-FIR-Filter-/blob/master/CPP%20FIR%20Algorithm/result.png?raw=true)
