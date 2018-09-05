@@ -1,6 +1,7 @@
 #ifndef FIR_H
 #define FIR_H
 
+#include <string>
 #include <cstdio>
 
 class FIR

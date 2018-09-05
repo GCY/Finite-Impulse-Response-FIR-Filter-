@@ -1,9 +1,5 @@
 #include "FIR.h"
 
-#include <string.h>
-#include <stdlib.h>
-#include <assert.h>
-
 FIR::FIR(double *coefficients, unsigned number_of_taps) :
    coefficients(coefficients),
    buffer(new double[number_of_taps]()),  
